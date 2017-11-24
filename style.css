@@ -1,33 +1,18 @@
-body {
+  /* General background */
+  body {
     font-family: 'Mountains of Christmas', cursive;
     color: #ffffff;
     background: #C0392B;
-    background: repeating-linear-gradient(
-    45deg,
-    #E74C3C,
-    #E74C3C 10px,
-    #C0392B 10px,
-    #C0392B 20px);
   }
   
+  /* Central background for Christmas month */
   .christmas-bg {
-    background: repeating-linear-gradient(
-    45deg,
-    #2ECC71,
-    #2ECC71 10px,
-    #27AE60 10px,
-    #27AE60 20px
-  );
+    background: #19934D;
   }
   
+  /* Central background for not Christmas month */
   .notxmas-bg {
-    background: repeating-linear-gradient(
-    45deg,
-    #34495E,
-    #34495E 10px,
-    #2C3E50 10px,
-    #2C3E50 20px
-  );
+    background: #34495E;
   }
   
   #mainwrap {
