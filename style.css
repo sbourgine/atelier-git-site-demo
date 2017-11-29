@@ -4,6 +4,11 @@
     color: #ffffff;
     background: #C0392B;
   }
+
+  .img-brand {
+    width: 30px;
+    margin: 10px;
+  }
   
   /* Central background for Christmas month */
   .christmas-bg {
